@@ -1,3 +1,3 @@
-# maths
+# Mathematics and machine learning
 ## Some project i've done.
 Description are coming soon....
