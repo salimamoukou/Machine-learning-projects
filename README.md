@@ -1,5 +1,5 @@
 # My Machine learning projects
-## Description : 
+## Here are my presentations of some projects : 
 - **Bayesian reinforcement learning**(BayesianRL) : State of art of reinforcement learning techniques
 and investigate the utility of modelling incertitude with probability in RL problems
 
